@@ -1,2 +1,3 @@
 # hello-world
-one repository
+один репозиторий
+как то так
